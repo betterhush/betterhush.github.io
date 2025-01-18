@@ -5,6 +5,7 @@
 <h2> web </h2>
 
 Astro page hosted via GitHub Pages
+<br/>
 [![Deploy to GitHub Pages](https://github.com/betterhush/betterhush.github.io/actions/workflows/deploy.yml/badge.svg)](https://github.com/betterhush/betterhush.github.io/actions/workflows/deploy.yml)
 <br/><br/><br/>
 </div>
